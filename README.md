@@ -332,17 +332,13 @@ Brain events (ALLOW, ALLOW_STRICT, BLOCK) are also plotted as text markers direc
 
 ## Screenshots
 
-> *Suggested screenshots to add to this section:*
+### HUD Idle State
+This is the default HUD view showing the EA in a clean state with no basket active.
 
-| Screenshot | What to show |
-|-----------|-------------|
-| `hud_idle.png` | HUD panel on a clean chart with no basket active |
-| `hud_basket.png` | HUD panel with an active 3–4 leg basket |
-| `hud_decision.png` | HUD showing ALLOW_STRICT or BLOCK decision state |
-| `chart_events.png` | Chart view with brain event markers plotted on candles |
-| `tier3_recovery.png` | HUD during a deep basket with Tier3 protector active |
+![Balerion HUD Idle](images/hud_idle.png)
 
-**See the [Screenshots](#screenshots) section below once images are added.**
+### More screenshots coming soon
+Additional screenshots will be added here as the project grows.
 
 ---
 
